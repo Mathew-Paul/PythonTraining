@@ -11,8 +11,8 @@ The following Python libraries are required for data manipulation, visualization
    - `pandas`
    - `matplotlib`
    - `seaborn`
+   - 
 Install these dependencies by running:
-
    ```bash
    pip install pandas matplotlib seaborn
 
